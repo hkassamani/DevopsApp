@@ -1,2 +1,0 @@
-#!/bin/bash
-unzip /var/www/html/webapp.zip /var/www/html
